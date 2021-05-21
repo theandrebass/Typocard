@@ -1,4 +1,4 @@
-# Typogram 🖼️
+# [Typogram](https://typocard.vercel.app) 🖼️
 
 **Typogram** is a simple web app to create nice-looking,
 minimalistic graphics that focus on a short snippet of text for sharing on the
