@@ -164,6 +164,12 @@ class Editor extends Component {
                         onchange=${evt => this.updateModel('colorScheme', evt.target.value)}>
                         <option value="light">light</option>
                         <option value="dark">dark</option>
+                        <option value="blue">blue</option>
+                        <option value="grey">grey</option>
+                        <option value="orange">orange</option>
+                        <option value="purple">purple</option>
+                        <option value="red">red</option>
+                        <option value="yellow">yellow</option>
                     </select>
                 </label>
             </details>
