@@ -135,6 +135,36 @@ input.paper:focus, textarea.paper:focus {
     --paper-background: #111;
 }
 
+.scheme-red {
+    --paper-foreground: #E61D40;
+    --paper-background: #fafafa;
+}
+
+.scheme-blue {
+    --paper-foreground: #0D4150;
+    --paper-background: #fafafa;
+}
+
+.scheme-orange {
+    --paper-foreground: #F1865B;
+    --paper-background: #fafafa;
+}
+
+.scheme-yellow {
+    --paper-foreground: #E7A84E;
+    --paper-background: #fafafa;
+}
+
+.scheme-grey {
+    --paper-foreground: #635F59;
+    --paper-background: #fafafa;
+}
+
+.scheme-purple {
+    --paper-foreground: #383860;
+    --paper-background: #fafafa;
+}
+
 header h1 {
     margin-top: 0;
     margin-bottom: .25em;
