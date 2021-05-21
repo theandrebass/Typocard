@@ -201,8 +201,8 @@ class App extends Component {
             colorScheme: 'light',
             fontSize: 'small',
 
-            header: 'Typogram',
-            footer: 'typogram.app',
+            header: 'Typocard',
+            footer: 'typocard.app',
             bodyRaw: `Start writing...`,
             body: Markus('Start writing...'),
         });
