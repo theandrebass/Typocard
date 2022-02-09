@@ -185,7 +185,7 @@ class Editor extends Component {
 
             <div class="credits">
                 A project by
-                <a href="https://robertandrebass.com" target="_blank">@theandrebass</a>.,
+                <a href="https://andrebass.co/" target="_blank">Andre Bass</a>.,
                 made with Torus and
                 <a href="https://github.com/theandrebass/paper.css" target="_blank">paper.css</a>.
             </div>
