@@ -12,9 +12,6 @@ elements including quotes, lists, and code blocks.
 
 ![Screenshot Typogram](screenshot.png)
 
-Typogram is built with the following web technologies:
-Torus for the UI and Paper.css for some style.
-
 ## Implementation
 
 To **render Markdown text**, Typogram uses a simple (but sufficient)
